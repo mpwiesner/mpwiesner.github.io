@@ -78,9 +78,9 @@ li {
 <br>
 <div style="margin:0 auto; text-align:center;">
 <ul>
-<li><a class="one" href="http://web.ics.purdue.edu/~mwiesner">About</a></li>
-<li><a class="one" href="http://web.ics.purdue.edu/~mwiesner/code.html">Code</a></li>
-<li><a class="one" href="http://web.ics.purdue.edu/~mwiesner/contact.html">Contact</a></li>
+<li><a class="one" href="https://mpwiesner.github.io/smap.html">About</a></li>
+<li><a class="one" href="https://mpwiesner.github.io/~mwiesner/code.html">Code</a></li>
+<li><a class="one" href="https://mpwiesner.github.io/~mwiesner/contact.html">Contact</a></li>
 <li><a class="one" href="Online_CV.pdf" target="_blank">CV</a></li>
 <li><a class="one" href="http://nicadd.niu.edu/~mwiesner" target="_blank">NIU Website</a></li>
 <li><a class="one" href="http://web.ics.purdue.edu/~mwiesner/outreach.html">Outreach</a></li>
