@@ -78,7 +78,7 @@ li {
 <br>
 <div style="margin:0 auto; text-align:center;">
 <ul>
-<li><a class="one" href="https://mpwiesner.github.io/smap.html">About</a></li>
+<li><a class="one" href="http://www.ben.edu">About</a></li>
 <li><a class="one" href="https://mpwiesner.github.io/~mwiesner/code.html">Code</a></li>
 <li><a class="one" href="https://mpwiesner.github.io/~mwiesner/contact.html">Contact</a></li>
 <li><a class="one" href="Online_CV.pdf" target="_blank">CV</a></li>
